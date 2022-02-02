@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import React, {lazy, Suspens} from "react";
+// import React, {lazy, Suspens} from "react";
 
 
 import Home from '../pages/Home'

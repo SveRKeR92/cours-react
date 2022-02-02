@@ -1,9 +1,9 @@
-import Username from './components/Username'
-import Card from './components/Card';
-import Image from './img/image.png';
-import RoadMap from './components/RoadMap';
+// import Username from './components/Username'
+// import Card from './components/Card';
+// import Image from './img/image.png';
+// import RoadMap from './components/RoadMap';
 
-import { Routes, Route, Link} from "react-router-dom";
+// import { Routes, Route, Link} from "react-router-dom";
 
 import Rooter from './routes/Rooter'
 

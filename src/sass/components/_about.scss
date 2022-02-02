@@ -1,0 +1,9 @@
+@import "../helpers/variables";
+
+#about{
+      position: relative;
+      h1{
+            color: $grey;
+            font-family: $title;
+      }
+}

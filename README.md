@@ -1,1 +1,1 @@
-[![Watch the video](https://i.imgur.com/9kdBbwu.png)](https://www.youtube.com/watch?v=5Om-I6tR-Ss)
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
